@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Tokyo Jumpers",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2025-12-21T09:25:31.688704Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tokyo Jumpers (feat. Daoko)",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_Tokyo_Jumpers_(feat._Daoko)_ピーナッツくん.txt"
+    }
+  ]
+}
