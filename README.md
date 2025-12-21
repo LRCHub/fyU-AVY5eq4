@@ -1,0 +1,85 @@
+# ピーナッツくん – Tokyo Jumpers
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Baby youlike 東京のfeeling
+かき混ぜるストロー
+君のGuideで
+Where we going jumpers
+Letʼs get to escape
+from the control
+Baby you
+Like 東京のfeeling
+まるでスローモーション
+同じStrideで
+We need love
+あぁもっともっと
+ウチらTokyo jumpersを
+気にしないで
+すっからかんのGlass注いだ
+リキッド Iʼm スポンジボブ
+君がしたいこと何?
+あんまぼくにないこだわり
+Should me what?
+青山通りマルジェラにセリーヌ
+高いタグ見てすぐ外したリング
+君の後ろについてって
+ぼくを振り返る君が好き
+Ben & Jerryʼsのアイス
+溶けてくネオンサイン
+ゆっくり過ごしたい今日を
+ぼくらのため光るストロボ
+そのままでいいからって
+君は何も求めなくて
+不自然な関係
+気にも留めない
+ふたり閉じ込める
+Baby youlike 東京のfeeling
+かき混ぜるストロー
+君のGuideで
+Where we going jumpers
+Letʼs get to escape
+from the control
+Baby you
+Like 東京のfeeling
+まるでスローモーション
+同じStrideで
+We need love
+あぁもっともっと
+ウチらTokyo jumpersを
+気にしないで
+最初のデートだね
+わたし意外と
+期待しちゃってるみたい
+絡まった糸をほどきたい
+ひらひらと舞う蝶々
+擬態してるnight
+ほら一緒に歩いてみましょう
+絵空事なモードを享受
+Step by Step 焦んないで
+今日は本当のわたしを共有できたら
+もっと知りたいと思う
+コントロールできない感情論
+フレンド or それ以上
+今日のジャンパーは君に似合ってる
+シャッターチャンス パチパチする
+Jump up 2人だとやっぱ楽しいよ
+カットしたくない時間しかない
+Only my night
+Feel me night
+Baby youlike 東京のfeeling
+かき混ぜるストロー
+君のGuideで
+Where we going jumpers
+Letʼs get to escape
+from the control
+Baby you
+Like 東京のfeeling
+まるでスローモーション
+同じStrideで
+We need love
+あぁもっともっと
+ウチらTokyo jumpersを
+気にしないで
+```
